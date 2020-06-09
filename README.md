@@ -1,1 +1,1 @@
-# open-liberty on ICP4Apps v4.2
+# open-liberty-sample on ICP4Apps v4.2
